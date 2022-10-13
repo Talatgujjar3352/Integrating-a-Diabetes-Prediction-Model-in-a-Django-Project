@@ -1,0 +1,1 @@
+# Integrating-a-Diabetes-Prediction-Model-in-a-Django-Project
